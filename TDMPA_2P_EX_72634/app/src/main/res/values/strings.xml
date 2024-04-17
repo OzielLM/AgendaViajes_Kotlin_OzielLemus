@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TDMPA_2P_EX_72634</string>
+    <string-array name="Filtro">
+        <item>Todos</item>
+        <item>Proximos</item>
+        <item>Pasados</item>
+    </string-array>
+</resources>
